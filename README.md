@@ -17,7 +17,7 @@ helping other engineers grow.
 - **[Momentum](https://momentum.swapniltamse.com)** — a one-button task starter for ADHD brains, built for my wife. No lists, no streaks, no yesterday.
 - **[AI Is Not Magic](https://notmagic.swapniltamse.com)** — a plain-language interactive explainer of how AI actually works and where it breaks. Nothing you type leaves the page.
 
-### Open-source tooling
+### Open-source tooling:
 
 - **[claude-security-engineer](https://github.com/swapniltamse/claude-security-engineer)** — an OWASP-style security layer that catches insecure patterns before an AI agent writes them, not after an incident.
 - **[claude-staff-engineer](https://github.com/swapniltamse/claude-staff-engineer)** — the judgment a staff engineer applies, encoded as guardrails: discovery passes, blast-radius limits, migration gates, observability requirements.
